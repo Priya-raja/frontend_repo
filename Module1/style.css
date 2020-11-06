@@ -1,0 +1,66 @@
+body {
+    margin: 0px;
+}
+h1, h2, p {
+    
+    margin-top: 0px;
+}
+
+h1 {
+ font-size: 40px;
+}
+h2 {
+
+    font-size:25px;
+}
+a{
+    color : #FFE600;
+}
+
+header, section {
+    padding: 50px;
+}
+header {
+    background-color: yellow;
+    color: black;
+    
+}
+#section-one {
+    background-color: black;
+    color: white;
+}
+
+#scetion-two {
+    color: black;
+}
+
+/* Styling buttons */
+
+.btn-yellow {
+  padding: 15px 25px;
+  color: black;
+  background-color: #FFE600;
+  display: inline-block;
+  text-decoration: none;
+
+}
+.section-two-link {
+    color: black;
+}
+.btn-yellow:hover {
+
+    background: white;
+}
+
+.btn-black {
+    color: white;
+    background-color: black;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+.btn-black:hover {
+    background: #FFE600;
+    color: black;
+}
